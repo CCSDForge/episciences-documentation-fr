@@ -1,5 +1,5 @@
 # Repository for Episciences Documentation - French version
-## French translation
+## French translation of https://github.com/CCSDForge/episciences-documentation
 
 Made with [Sphinx](https://www.sphinx-doc.org/)
 

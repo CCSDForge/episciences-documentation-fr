@@ -1,4 +1,5 @@
 # Repository for Episciences Documentation
+## French translation
 
 Made with [Sphinx](https://www.sphinx-doc.org/)
 

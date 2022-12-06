@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Episciences'
+project = 'Episciences Documentation - French'
 copyright = 'CC-BY 2022, CCSD'
 author = 'Episciences contributors'
 

@@ -60,7 +60,7 @@ En cliquant sur “Visualiser la grille”, la grille telle qu’elle sera propo
 
 ![Alt text](img/grids-4.png "Visualiser la grille")
 
-Une icône de couleur précise la visibilité du crtière :
+Une icône de couleur précise la visibilité du critère :
 - rouge : la réponse à ce critère peut être visible publiquement sur la page de l’article
 - orange : la réponse à ce critère peut être vue par l’auteur
 - gris : la réponse à ce critère ne peut être vue que par les rédacteurs

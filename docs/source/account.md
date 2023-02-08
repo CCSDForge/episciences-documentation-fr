@@ -17,7 +17,7 @@ Les champs marqués d’un astérisque sont obligatoires.
 Saisir les informations :
 + **login*** : il s’agit de votre nom d’utilisateur. Il doit comporter au minimum 3 caractères et ne pourra pas être modifié par la suite ;
 + **mot de passe*** : il doit comporter au minimum 7 caractères ;
-+ mot de passe (confirmation)* ;
++ mot de passe (confirmation)* : confirmer le mot de passe ;
 + **nom de famille*** : avec une majuscule à l’initiale (ex : Dupont) ;
 + **prénom*** : avec une majuscule à l’initiale (ex : Camille) ;
 + **nom à afficher** : par défaut, vos prénom et nom seront affichés ;

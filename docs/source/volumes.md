@@ -29,7 +29,7 @@ Un volume est composé de 7 éléments :
 - **Statut** (ouvert/fermé) : un statut ouvert permet d’ajouter des articles au fil de l’eau
 - **Volume en cours** (oui/non) : en sélectionnant l’option “oui” et le statut “ouvert”, ce volume est proposé lors du 
   dépôt
-- **Volume spécial** (oui/non) : volume accessible uniquement sur code d’accès
+- **Volume spécial** (oui/non) : volume accessible uniquement avec un code d’accès
 - **Métadonnées** : permet d’ajouter un fichier PDF, comme un édito, un erratum, un addendum, des remerciements, un 
   hommage, etc.
 

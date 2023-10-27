@@ -22,6 +22,7 @@ Contents
    account.md
    roles.md
    submission.md
+   links.md
    review.md
    copyediting.md
    website.md

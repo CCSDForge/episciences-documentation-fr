@@ -1,10 +1,7 @@
-# Repository for Episciences Documentation - French version
+# Former Repository for Episciences Documentation - French version
 ## French translation of https://github.com/CCSDForge/episciences-documentation
 
+/!\ The project has been replaced by https://github.com/CCSDForge/episciences-doc
+
 Made with [Sphinx](https://www.sphinx-doc.org/)
-
-[Latest version on _Read The Docs_](https://episciences.readthedocs.io/fr/latest/)
-
-[![Documentation Status](https://readthedocs.org/projects/episciences/badge/?version=latest)](https://episciences.readthedocs.io/en/latest/?badge=latest)
-![](https://img.shields.io/github/repo-size/CCSDForge/episciences-documentation)
 
